@@ -8,6 +8,8 @@
 ### URL
 Сайт прекратил работу. [https://albertsemin.ru](https://albertsemin.ru)
 
+### Скриншоты
+
 [![Скриншот 1](screen1.png)](screen1.png)
 
 [![Скриншот 2](screen2.png)](screen2.png)
