@@ -10,5 +10,5 @@
 ### URL
 [http://spfo.ru/](http://spfo.ru/)
 
-### Скриншоты
+### Скриншот
 [![Скриншот 1](screen1.png)](screen1.png)
